@@ -17,8 +17,8 @@ export default function Home() {
 				Moliyaviy Yordamchi
 			</h1>
 			<p className="text-center w-[300px] lg:w-[512px]">
-				Asosiy moliyaviy savodxonlikdan foydalangan holda pullarini to'g'ri
-				boshqarishni istaganlar uchun qulay va bepul dastur.
+				Asosiy moliyaviy savodxonlikdan foydalangan holda pullarini
+				to&apos;g&apos;ri boshqarishni istaganlar uchun qulay va bepul dastur.
 			</p>
 			<div className="w-full mt-10">
 				<Link
