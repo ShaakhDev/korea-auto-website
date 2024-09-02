@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 		"Asosiy moliyaviy savodxonlikdan foydalangan holda pullarini to'g'ri boshqarishni istaganlar uchun qulay va bepul dastur.",
 	openGraph: {
 		type: "website",
-		url: "https://moliyaviy-yordamchi.vercel.app",
+		url: "https://moliyaviy-yordamchi-website.vercel.app/",
 		title: "Moliyaviy Yordamchi",
 		description:
 			"Asosiy moliyaviy savodxonlikdan foydalangan holda pullarini to'g'ri boshqarishni istaganlar uchun qulay va bepul dastur.",
