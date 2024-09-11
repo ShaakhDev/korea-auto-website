@@ -40,10 +40,10 @@ export default function Privacy() {
 				</p>
 				<p>
 					1.1.2. Data automatically transmitted to the Mobile App through the
-					software installed on the User's device, including IP address, cookie
-					data, browser information (or other programs), equipment and software
-					characteristics used by the User, date and time of access to services,
-					requested page addresses, and other similar information.
+					software installed on the User&apos;s device, including IP address,
+					cookie data, browser information (or other programs), equipment and
+					software characteristics used by the User, date and time of access to
+					services, requested page addresses, and other similar information.
 				</p>
 				<p>
 					1.2. This Privacy Policy only applies to the "Korea Auto" mobile
@@ -51,14 +51,14 @@ export default function Privacy() {
 					for any third-party websites that the User may visit via links within
 					the Mobile App.
 				</p>
-				<h3 className="text-center">2. USERS' PERSONAL DATA</h3>
+				<h3 className="text-center">2. USERS&apos; PERSONAL DATA</h3>
 				<p>
 					2.1. The Mobile App collects and stores only the personal data
 					necessary to provide services or fulfill agreements with the User
 					unless a longer period is required by law.
 				</p>
 				<p>
-					2.2. The Mobile App processes the User's personal data for the
+					2.2. The Mobile App processes the User&apos;s personal data for the
 					following purposes:
 				</p>
 				<p>
@@ -75,8 +75,8 @@ export default function Privacy() {
 					related to the use of the Mobile App.
 				</p>
 				<h3 className="text-center">
-					3. CONDITIONS FOR PROCESSING AND TRANSFERRING USERS' PERSONAL DATA TO
-					THIRD PARTIES
+					3. CONDITIONS FOR PROCESSING AND TRANSFERRING USERS&apos; PERSONAL
+					DATA TO THIRD PARTIES
 				</h3>
 				<p>
 					3.1. The confidentiality of the User’s personal data is maintained,
@@ -86,7 +86,7 @@ export default function Privacy() {
 				</p>
 				<p>
 					3.2. The administration of the Mobile App has the right to transfer
-					the User's personal data to third parties in the following cases:
+					the User&apos;s personal data to third parties in the following cases:
 				</p>
 				<p>3.2.1. The User consents to such actions.</p>
 				<p>
@@ -104,10 +104,10 @@ export default function Privacy() {
 				</p>
 				<p>
 					3.4. The administration of the Mobile App takes necessary
-					organizational and technical measures to protect the User's personal
-					data from unauthorized actions such as destruction, modification,
-					blocking, copying, distribution, and other illegal actions by third
-					parties.
+					organizational and technical measures to protect the User&apos;s
+					personal data from unauthorized actions such as destruction,
+					modification, blocking, copying, distribution, and other illegal
+					actions by third parties.
 				</p>
 				<h3 className="text-center">4. OBLIGATIONS OF THE PARTIES</h3>
 				<p>4.1. Obligations of the User:</p>
@@ -130,13 +130,13 @@ export default function Privacy() {
 					publish the personal data except as provided by this Privacy Policy.
 				</p>
 				<p>
-					4.2.3. To take measures to protect the confidentiality of the User's
-					personal data in accordance with the procedures used to protect this
-					type of information in the regular course of business.
+					4.2.3. To take measures to protect the confidentiality of the
+					User&apos;s personal data in accordance with the procedures used to
+					protect this type of information in the regular course of business.
 				</p>
 				<p>
-					4.2.4. To check personal data accuracy and legality upon the User's
-					request or when requested by authorized bodies.
+					4.2.4. To check personal data accuracy and legality upon the
+					User&apos;s request or when requested by authorized bodies.
 				</p>
 				<h3 className="text-center">5. LIABILITY OF THE PARTIES</h3>
 				<p>
@@ -153,7 +153,7 @@ export default function Privacy() {
 					5.2.2. Was received from a third party before it was received by the
 					Mobile App administration.
 				</p>
-				<p>5.2.3. Was disclosed with the User's consent.</p>
+				<p>5.2.3. Was disclosed with the User&apos;s consent.</p>
 				<h3 className="text-center">6. DISPUTE RESOLUTION</h3>
 				<p>
 					6.1. Before filing a lawsuit regarding disputes arising between the
@@ -179,7 +179,7 @@ export default function Privacy() {
 				<h3 className="text-center">7. ADDITIONAL TERMS</h3>
 				<p>
 					7.1. The administration of the Mobile App has the right to make
-					changes to this Privacy Policy without the User's consent.
+					changes to this Privacy Policy without the User&apos;s consent.
 				</p>
 				<p>
 					7.2. The new Privacy Policy comes into effect from the moment it is
