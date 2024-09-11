@@ -5,21 +5,21 @@ import "./globals.css";
 const inter = Inter({subsets: ["latin"]});
 
 export const metadata: Metadata = {
-	title: "Moliyaviy Yordamchi",
+	title: "Korea Auto",
 	description:
-		"Asosiy moliyaviy savodxonlikdan foydalangan holda pullarini to'g'ri boshqarishni istaganlar uchun qulay va bepul dastur.",
+		"Easily buy or sell cars in South Korea! Browse listings, connect with sellers, and enjoy full app support in 5 languages.",
 	openGraph: {
 		type: "website",
 		url: "https://moliyaviy-yordamchi-website.vercel.app/",
-		title: "Moliyaviy Yordamchi",
+		title: "Korea Auto",
 		description:
-			"Asosiy moliyaviy savodxonlikdan foydalangan holda pullarini to'g'ri boshqarishni istaganlar uchun qulay va bepul dastur.",
+			"Easily buy or sell cars in South Korea! Browse listings, connect with sellers, and enjoy full app support in 5 languages.",
 		images: [
 			{
 				url: "/logo.png",
 				width: 512,
 				height: 512,
-				alt: "moliyaviy yordamchi app logo",
+				alt: "Korea Auto app logo",
 			},
 		],
 	},
