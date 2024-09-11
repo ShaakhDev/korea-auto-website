@@ -196,8 +196,8 @@ export default function Privacy() {
 				</p>
 				<p>
 					7.4. The current Privacy Policy is available at{" "}
-					<a href="https://xalqlar-dostligi.uz/privacy">
-						&nbsp;xalqlar-dostligi.uz/privacy&nbsp;
+					<a href="https://korea-auto-website.vercel.app/privacy">
+						&nbsp;https://korea-auto-website.vercel.app/privacy&nbsp;
 					</a>
 					.
 				</p>

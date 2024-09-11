@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 		"Easily buy or sell cars in South Korea! Browse listings, connect with sellers, and enjoy full app support in 5 languages.",
 	openGraph: {
 		type: "website",
-		url: "https://moliyaviy-yordamchi-website.vercel.app/",
+		url: "https://korea-auto-website.vercel.app/",
 		title: "Korea Auto",
 		description:
 			"Easily buy or sell cars in South Korea! Browse listings, connect with sellers, and enjoy full app support in 5 languages.",
